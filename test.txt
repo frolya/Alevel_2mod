@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 fdfd
 jhjhjh
 ghnjnjmjj
 
 jjj
+=======
+dkfjdkfj
+vjvkjvd
+vjkfj
+fff
+dddd
+>>>>>>> 45d7595c776358902be43d3c6e064c2ef3542eb8
